@@ -14,7 +14,7 @@
 <h3> 👨🏽‍💻 Sobre mim </h3>
 
 Engenheiro de software, entusiasta em economia e filosofia. 
-Trabalha na área de construção de softwares para Desktop, WEB e consultoria em tecnologia há mais de 9 anos.
+Trabalha na área de construção de softwares para Desktop, WEB e consultoria em tecnologia há mais de 10 anos.
 Especialista múltiplas linguagens de programação e ferramentas: 
 Java, Spring, AWS, Azure, Docker, PHP, Dephi, Python, MySQL, PostgreSQL, ElasticSearch, entre outros.
 Atua também na área educacional em palestras e mentoria para juniores e estagiários.
