@@ -19,9 +19,10 @@ Especialista múltiplas linguagens de programação e ferramentas:
 Java, Spring, AWS, Azure, Docker, PHP, Dephi, Python, MySQL, PostgreSQL, ElasticSearch, entre outros.
 Atua também na área educacional em palestras e mentoria para juniores e estagiários.
 
-- 💼 Trabalhando como Tech lead na [NTTData](https://www.linkedin.com/company/ntt-data-europe-latam/mycompany/)
+- 💼 Trabalhando como Tech lead na [Capgemini ♠️](https://www.linkedin.com/company/capgemini-engineering/posts/?feedView=all)
 - Delphi Develop Certified
 - MBA Projetos de Aplicações Móveis
+- MBA Full Cycle Architecture | Software Architecture
 
 <div style="display: inline_block">
   <img align="center" alt="Guima-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
