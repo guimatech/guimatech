@@ -30,28 +30,11 @@ Atua também na área educacional em palestras e mentoria para juniores e estagi
   <img align="center" alt="Guima-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Guima-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Guima-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Guima-Java" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg/1200px-Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg.png">
+  <img align="center" alt="Guima-Java" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
   <img align="center" alt="Guima-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
 
 <br/>
-
-<div>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/guimatech">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimatech&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-        </a>
-        </td>
-        <td>
-          <a href="https://github.com/guimatech">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimatech&layout=compact&langs_count=7&theme=cobalt"/>
-          </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ![Snake animation](https://raw.githubusercontent.com/guimatech/guimatech/output/github-contribution-grid-snake-dark.svg)
 
