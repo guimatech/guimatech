@@ -19,7 +19,7 @@ Especialista múltiplas linguagens de programação e ferramentas:
 Java, Spring, AWS, Azure, Docker, PHP, Dephi, Python, MySQL, PostgreSQL, ElasticSearch, entre outros.
 Atua também na área educacional em palestras e mentoria para juniores e estagiários.
 
-- 💼 Trabalhando como Senior Software Enginner na [BMW Group 🚙](https://www.linkedin.com/company/criticaltechworks/)
+- 💼 Trabalhando como Senior Software Enginner na [Critical Techworks from BMW Group 🚙](https://www.linkedin.com/company/criticaltechworks/)
 - Delphi Develop Certified
 - MBA Projetos de Aplicações Móveis
 - MBA Full Cycle Architecture | Software Architecture
