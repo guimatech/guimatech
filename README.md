@@ -4,7 +4,7 @@
 
 <br/>
 
-- 🔭 I’m currently working at NTTData 🤖
+- 🔭 I’m currently working at Critical Techworks from BMW Group 🚙🤖
 - 🌱 I’m currently learning MBA Full Cycle Architecture ☠
 - 💬 Ask me about anything you want 🤓
 - 📫 How to reach me: guimaraes-lucas@outlook.com.br 🕸
@@ -19,7 +19,7 @@ Especialista múltiplas linguagens de programação e ferramentas:
 Java, Spring, AWS, Azure, Docker, PHP, Dephi, Python, MySQL, PostgreSQL, ElasticSearch, entre outros.
 Atua também na área educacional em palestras e mentoria para juniores e estagiários.
 
-- 💼 Trabalhando como Senior Software Enginner na [Capgemini ♠️](https://www.linkedin.com/company/capgemini-engineering/posts/?feedView=all)
+- 💼 Trabalhando como Senior Software Enginner na [BMW Group 🚙](https://www.linkedin.com/company/criticaltechworks/)
 - Delphi Develop Certified
 - MBA Projetos de Aplicações Móveis
 - MBA Full Cycle Architecture | Software Architecture
